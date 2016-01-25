@@ -24,9 +24,3 @@ $.ajax({
     }
 });
 ```
-
-and then
-
-```
-curl http://localhost:3000/users
-```
